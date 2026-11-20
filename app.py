@@ -32,4 +32,4 @@ def predict(student: StudentData):
         raise HTTPException(
             status_code=500,
             detail=f"Prediction failed: {str(e)}"
-        )
+        )        
