@@ -1,0 +1,11 @@
+.venv/
+_pycache_/
+*.рус
+.git/
+.dvc/
+DataSet/
+notebooks/
+mlruns/
+*.dvc
+dvc.lock
+dvc.yaml
